@@ -10,7 +10,10 @@
     "example": "webpack --config ./app/webpack.config.js",
     "serve": "node ./app/server.js",
     "start": "npm run example && npm run serve"
-  },  
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
   "keywords": [
     "happyfresh",
     "static",
@@ -21,15 +24,14 @@
   "author": "Rheza Satria",
   "license": "MIT",
   "devDependencies": {
-    "babel-core": "^5.8.3",
-    "babel-loader": "^5.3.2",
-    "react": "^0.13.3",
-    "react-router": "^0.13.3",
-    "webpack": "^1.10.5",
-    "express": "^4.7.2"
   },
   "dependencies": {
     "react-markdown-to-html": "^1.0.11",
-    "request": "^2.61.0"
+    "express": "^4.7.2",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "babel-core": "^5.8.3",
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.10.5"
   }
 }
