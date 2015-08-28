@@ -3,7 +3,7 @@ React Orio is a static site generator using node.js, react, react-router, and we
 
 ## Demo
 
-An example of a static blog is here at [incubus8/react-orio](http://react-orio.herokuapp.com/)
+An example of a static blog is here at [Heroku React-Orio Demo](http://react-orio.herokuapp.com/)
 
 ## Installation
 
