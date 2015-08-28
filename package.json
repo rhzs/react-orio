@@ -3,9 +3,6 @@
   "version": "1.0.3",
   "description": "a static site generator using node and react",
   "preferGlobal": true,
-  "bin": {
-    "Orio": "index.js"
-  },
   "scripts": {
     "example": "webpack --config ./app/webpack.config.js",
     "serve": "node ./app/server.js",
