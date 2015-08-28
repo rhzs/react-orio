@@ -13,9 +13,7 @@ In terminal, type: `npm install`
 
 ## Usage
 
-Type: `webpack` in `app/` directory to build the app.
-
-Type: `node server.js` in `app/` directory to run the server.
+Type: `npm start` to run the server.
 
 ## Technologies, Credits, Special Thanks
 

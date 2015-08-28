@@ -6,6 +6,11 @@
   "bin": {
     "Orio": "index.js"
   },
+  "scripts": {
+    "example": "webpack --config ./app/webpack.config.js",
+    "serve": "node ./app/server.js",
+    "start": "npm run example && npm run serve"
+  },  
   "keywords": [
     "happyfresh",
     "static",
