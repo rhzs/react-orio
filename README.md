@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/incubus8/react-orio.svg?branch=master)](https://travis-ci.org/incubus8/react-orio)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/incubus8/react-orio)
 
 # React Orio
 React Orio is a static site generator using node.js, react, react-router, and webpack.

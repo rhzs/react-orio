@@ -1,0 +1,17 @@
+{
+  "name": "React Orio",
+  "description": "Demo - Static Site Generator",
+  "website": "react-orio.herokuapp.com",
+  "repository": "https://github.com/incubus8/react-orio",
+  "success_url": "/",
+  "keywords": [
+    "static",
+    "site",
+    "nerds",
+    "happy"
+],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  },
+  "generator": "https://www.expeditedssl.com/heroku-button-maker"
+}
